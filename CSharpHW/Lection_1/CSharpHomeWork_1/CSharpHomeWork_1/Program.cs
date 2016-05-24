@@ -10,11 +10,9 @@ namespace CSharpHomeWork_1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World, ");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Anton\n");
+            Console.WriteLine("Hello World, my name is Anton\n");
 
-            Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("Please, press any key to exit.");
             Console.ReadKey();
         }
