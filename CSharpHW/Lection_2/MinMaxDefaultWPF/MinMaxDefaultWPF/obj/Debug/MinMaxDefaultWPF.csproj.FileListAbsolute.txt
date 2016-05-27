@@ -1,0 +1,14 @@
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\bin\Debug\MinMaxDefaultWPF.exe.config
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\bin\Debug\MinMaxDefaultWPF.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\bin\Debug\MinMaxDefaultWPF.pdb
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\App.g.cs
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF_MarkupCompile.cache
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF_MarkupCompile.lref
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.g.resources
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.Properties.Resources.resources
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.csproj.GenerateResource.Cache
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\MinMaxDefaultWPF\MinMaxDefaultWPF\obj\Debug\MinMaxDefaultWPF.pdb

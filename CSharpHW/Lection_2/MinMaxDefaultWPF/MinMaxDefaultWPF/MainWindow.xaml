@@ -1,0 +1,72 @@
+﻿<Window x:Class="MinMaxDefaultWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinMaxDefaultWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="550">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <ComboBox Name="NumericTypeCB"
+                          Text="11100"
+                          Width="100"
+                          Height="auto"
+                          VerticalAlignment="Center"
+                          HorizontalAlignment="Center" IsReadOnly="True" DataContextChanged="NumericTypeCB_DataContextChanged"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <TextBlock Name="MinValueTBck"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Text="Min value"/>
+                </Grid>
+
+                <Grid Grid.Row="1">
+                    <TextBlock Name="DefaultValueTBck"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Text="Default value"/>
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <TextBlock Name="MaxValueTBck"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Text="Max value"/>
+                </Grid>
+            
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Button Name="ExitButton"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    Content="Finish"
+                    Margin="10" Click="ExitButton_Click"
+                    />
+        </Grid>
+        
+    </Grid>
+</Window>
