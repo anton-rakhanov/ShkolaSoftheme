@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MinMaxDefaultWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="550">
+        Title="MainWindow" Height="350" Width="550" Activated="Window_Activated">
     <Grid>
 
         <Grid.RowDefinitions>
@@ -21,11 +21,11 @@
             </Grid.ColumnDefinitions>
             <Grid Grid.Column="0">
                 <ComboBox Name="NumericTypeCB"
-                          Text="11100"
                           Width="100"
                           Height="auto"
                           VerticalAlignment="Center"
-                          HorizontalAlignment="Center" IsReadOnly="True" DataContextChanged="NumericTypeCB_DataContextChanged"/>
+                          HorizontalAlignment="Center" IsReadOnly="True" 
+                          SelectionChanged="NumericTypeCB_SelectionChanged"/>
             </Grid>
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>

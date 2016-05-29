@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\BirthDate_Validation\obj\Debug\BirthDate_Validation.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\BirthDate_Validation\bin\Debug\BirthDate_Validation.dll
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\BirthDate_Validation\bin\Debug\BirthDate_Validation.pdb
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\BirthDate_Validation\obj\Debug\BirthDate_Validation.dll
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\BirthDate_Validation\obj\Debug\BirthDate_Validation.pdb

@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+e:\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+e:\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+e:\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+e:\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb

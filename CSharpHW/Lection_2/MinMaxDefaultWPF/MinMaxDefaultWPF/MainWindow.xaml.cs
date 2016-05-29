@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MinMaxDefaultWPF.Controller;
 
 namespace MinMaxDefaultWPF
 {
@@ -20,6 +21,9 @@ namespace MinMaxDefaultWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private MainWindowController _controller;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -29,9 +33,14 @@ namespace MinMaxDefaultWPF
             Close();
         }
 
-        private void NumericTypeCB_DataContextChanged(object sender, DependencyPropertyChangedEventArgs e)
+        private void Window_Activated(object sender, EventArgs e)
         {
+            _controller = new MainWindowController(this);
+        }
 
+        private void NumericTypeCB_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            _controller.DisplayData(NumericTypeCB.SelectedItem);
         }
     }
 }

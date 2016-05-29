@@ -1,0 +1,263 @@
+﻿<Window x:Class="RegistrationForm.Views.RegistrationForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RegistrationForm" Height="650" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            <TextBlock Text="Registration form"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Margin="10"/>
+        </Grid>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock Grid.Row="0"
+                           Text="First Name:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="1"
+                           Text="Last Name:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="2"
+                           Text="Birth date:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="3"
+                           Text="Gender:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="4"
+                           Text="Email:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="5"
+                           Text="Phone number:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="6"
+                           Text="Additional information:"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+            </Grid>
+            
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <TextBox Grid.Row="0"
+                         Name="FirstNameTBox"
+                         VerticalAlignment="Center"
+                         Margin="0,20" 
+                         TextChanged="FirstNameTBox_TextChanged"/>
+
+                <TextBox Grid.Row="1"
+                         x:Name="LastNameTBox"
+                         VerticalAlignment="Center"
+                         Margin="0,18"
+                         TextChanged="LastNameTBox_TextChanged"/>
+
+                <Grid Grid.Row="2"
+                      VerticalAlignment="Center"
+                      Margin="0,20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBlock Grid.Column="0"
+                               Text="DD:"
+                               Margin="0,0,5,0"/>
+                    <TextBox Grid.Column="1"
+                             Width="30"
+                             Name="BirthDayTBox"
+                             TextChanged="BirthDayTBox_TextChanged"/>
+
+                    <TextBlock Grid.Column="2"
+                               Text="MM:"
+                               Margin="5,0"/>
+                    <TextBox Grid.Column="3"
+                             Width="30"
+                             Name="BirthMonthTBox"
+                             TextChanged="BirthMonthTBox_TextChanged"/>
+
+                    <TextBlock Grid.Column="4"
+                               Text="YYYY:"
+                               Margin="5,0"/>
+                    <TextBox Grid.Column="5"
+                             HorizontalAlignment="Left"
+                             Width="60"
+                             Name="BirthYearTBox"
+                             TextChanged="BirthYearTBox_TextChanged"/>
+
+                </Grid>
+
+                <ComboBox Grid.Row="3"
+                          Name="GenderCBox"
+                          VerticalAlignment="Center"
+                          Width="100"
+                          HorizontalAlignment="Left"
+                          Margin="0,17"
+                          SelectionChanged="GenderCBox_SelectionChanged">
+                    
+                    <ComboBoxItem Content="Female"/>
+                    <ComboBoxItem Content="Male"/>
+                </ComboBox>
+
+                <TextBox Grid.Row="4"
+                         Name="EmailTBox"
+                         VerticalAlignment="Center"
+                         Margin="0,18"
+                         TextChanged="EmailTBox_TextChanged"/>
+
+                <TextBox Grid.Row="5"
+                         Name="PhoneNumberTBox"
+                         VerticalAlignment="Center"
+                         Margin="0,19"
+                         TextChanged="PhoneNumberTBox_TextChanged"/>
+
+                <TextBox Grid.Row="6"
+                         Name="AdditionalInformaitionTBox"
+                         Margin="0,20"
+                         TextChanged="AdditionalInformaitionTBox_TextChanged"
+                         />
+
+            </Grid>
+
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock Grid.Row="0"
+                           Name="FirstNameMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="1"
+                           Name="LastNameMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="2"
+                           Name="BirthDateMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="3"
+                           Name="GenderMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="4"
+                           Name="EmailMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="5"
+                           Name="PhoneNumberMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+
+                <TextBlock Grid.Row="6"
+                           Name="AdditionalInformationMistakeTBlock"
+                           Text="Incorrect input!"
+                           Foreground="Red"
+                           Visibility="Hidden"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+            </Grid>
+
+
+        </Grid>
+        
+        <Grid Grid.Row="2">
+            <Grid VerticalAlignment="Center"
+                  HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+            
+                <Button Grid.Column="0"
+                        Width="80"
+                        Name="ExitButton"
+                        Content="Exit"
+                        Margin="10" Click="ExitButton_Click"/>
+                <Button Grid.Column="1"
+                        IsEnabled="False"
+                        Width="80"
+                        Name="SendButton"
+                        Content="Send"
+                        Margin="10" Click="SendButton_Click"/>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</Window>

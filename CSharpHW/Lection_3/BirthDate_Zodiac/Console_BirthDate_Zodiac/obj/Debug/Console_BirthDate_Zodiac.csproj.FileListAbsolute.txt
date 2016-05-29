@@ -1,0 +1,8 @@
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\bin\Debug\Console_BirthDate_Zodiac.exe.config
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\bin\Debug\Console_BirthDate_Zodiac.exe
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\bin\Debug\Console_BirthDate_Zodiac.pdb
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\obj\Debug\Console_BirthDate_Zodiac.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\obj\Debug\Console_BirthDate_Zodiac.exe
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\obj\Debug\Console_BirthDate_Zodiac.pdb
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\bin\Debug\BirthDate_Validation.dll
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\Console_BirthDate_Zodiac\bin\Debug\BirthDate_Validation.pdb

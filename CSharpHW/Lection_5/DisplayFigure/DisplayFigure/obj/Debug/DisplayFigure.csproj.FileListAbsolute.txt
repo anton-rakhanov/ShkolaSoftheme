@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\bin\Debug\DisplayFigure.exe.config
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\bin\Debug\DisplayFigure.exe
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\bin\Debug\DisplayFigure.pdb
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\obj\Debug\DisplayFigure.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\obj\Debug\DisplayFigure.exe
+e:\documents\visual studio 2013\Projects\DisplayFigure\DisplayFigure\obj\Debug\DisplayFigure.pdb

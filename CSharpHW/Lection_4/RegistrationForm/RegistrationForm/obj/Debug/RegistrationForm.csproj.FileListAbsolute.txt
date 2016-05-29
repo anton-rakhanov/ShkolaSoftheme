@@ -1,0 +1,13 @@
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\App.g.cs
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm_MarkupCompile.cache
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.g.resources
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\Views\RegistrationForm.baml
+e:\documents\visual studio 2013\Projects\RegistrationForm\RegistrationForm\obj\Debug\Views\RegistrationForm.g.cs

@@ -1,0 +1,93 @@
+﻿<Window x:Class="GuessTheNumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.Row="0"
+                   Text="Guess the Number!"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   Margin="15"/>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" 
+                           Text="Please, enter number from 1 to 10"
+                           VerticalAlignment="Bottom"
+                           HorizontalAlignment="Center"
+                           Margin="5"/>
+                <TextBox Grid.Row="1"
+                         Name="PlayerInputTBox"
+                         VerticalAlignment="Top"
+                         HorizontalAlignment="Center"
+                         Margin="5"
+                         Width="50"/>
+                
+                <Button Grid.Row="2"
+                        Name="TakeATryButton"
+                        Content="Take a try!"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="75"
+                        Margin="5" Click="TakeATryButton_Click"/>
+                
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" 
+                           Text="Some random generated value"
+                           VerticalAlignment="Bottom"
+                           HorizontalAlignment="Center"
+                           Margin="5"/>
+                <TextBlock Grid.Row="1"
+                         Name="RandomNumberTBck"
+                         VerticalAlignment="Top"
+                         HorizontalAlignment="Center"
+                         Margin="5"
+                         Text="?"/>
+
+                <Button Grid.Row="3"
+                        Name="GenerateRandomNumberButtom"
+                        Content="Generate"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="75"
+                        Margin="5" Click="GenerateRandomNumberButtom_Click"/>
+
+            </Grid>
+
+        </Grid>
+        
+         <Button Grid.Row="2"
+                 Content="Exit"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 Width="50"
+                 Margin="15"
+                 Name="ExitButton" Click="ExitButton_Click"/>
+    </Grid>
+</Window>

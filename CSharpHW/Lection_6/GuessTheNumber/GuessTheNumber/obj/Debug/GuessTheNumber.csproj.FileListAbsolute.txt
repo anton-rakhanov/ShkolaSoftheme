@@ -1,0 +1,13 @@
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\App.g.cs
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber_MarkupCompile.cache
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\MainWindow.baml
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\MainWindow.g.cs
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.g.resources
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+e:\documents\visual studio 2013\Projects\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

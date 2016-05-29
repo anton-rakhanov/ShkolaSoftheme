@@ -1,0 +1,15 @@
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\bin\Debug\WPF_BirthDate_Zodiac.exe.config
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\bin\Debug\WPF_BirthDate_Zodiac.exe
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\bin\Debug\WPF_BirthDate_Zodiac.pdb
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\MainWindow.baml
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\MainWindow.g.cs
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\App.g.cs
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac_MarkupCompile.cache
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.g.resources
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.exe
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\obj\Debug\WPF_BirthDate_Zodiac.pdb
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\bin\Debug\BirthDate_Validation.dll
+e:\documents\visual studio 2013\Projects\BirthDate_Zodiac\WPF_BirthDate_Zodiac\bin\Debug\BirthDate_Validation.pdb
