@@ -1,0 +1,6 @@
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\bin\Debug\Library.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\bin\Debug\Library.pdb
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\obj\Debug\Library.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_2\Library\Library\obj\Debug\Library.pdb
