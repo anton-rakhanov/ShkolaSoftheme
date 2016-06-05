@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\InterfacesValidationAndUsers\InterfacesValidationAndUsers\bin\Debug\InterfacesValidationAndUsers.exe.config
+e:\documents\visual studio 2013\Projects\InterfacesValidationAndUsers\InterfacesValidationAndUsers\bin\Debug\InterfacesValidationAndUsers.exe
+e:\documents\visual studio 2013\Projects\InterfacesValidationAndUsers\InterfacesValidationAndUsers\bin\Debug\InterfacesValidationAndUsers.pdb
+e:\documents\visual studio 2013\Projects\InterfacesValidationAndUsers\InterfacesValidationAndUsers\obj\Debug\InterfacesValidationAndUsers.exe
+e:\documents\visual studio 2013\Projects\InterfacesValidationAndUsers\InterfacesValidationAndUsers\obj\Debug\InterfacesValidationAndUsers.pdb

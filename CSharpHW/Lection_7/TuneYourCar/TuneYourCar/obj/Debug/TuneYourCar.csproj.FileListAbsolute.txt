@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\bin\Debug\TuneYourCar.exe.config
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\obj\Debug\TuneYourCar.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\bin\Debug\TuneYourCar.exe
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\bin\Debug\TuneYourCar.pdb
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\obj\Debug\TuneYourCar.exe
+e:\documents\visual studio 2013\Projects\TuneYourCar\TuneYourCar\obj\Debug\TuneYourCar.pdb

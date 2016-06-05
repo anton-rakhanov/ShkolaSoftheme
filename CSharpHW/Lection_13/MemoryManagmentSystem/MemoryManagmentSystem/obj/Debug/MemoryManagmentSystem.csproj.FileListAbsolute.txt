@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\bin\Debug\MemoryManagmentSystem.exe.config
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\obj\Debug\MemoryManagmentSystem.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\bin\Debug\MemoryManagmentSystem.exe
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\bin\Debug\MemoryManagmentSystem.pdb
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\obj\Debug\MemoryManagmentSystem.exe
+e:\documents\visual studio 2013\Projects\MemoryManagmentSystem\MemoryManagmentSystem\obj\Debug\MemoryManagmentSystem.pdb

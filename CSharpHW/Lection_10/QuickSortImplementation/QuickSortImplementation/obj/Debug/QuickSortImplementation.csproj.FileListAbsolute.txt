@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\bin\Debug\QuickSortImplementation.exe.config
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\obj\Debug\QuickSortImplementation.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\bin\Debug\QuickSortImplementation.exe
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\bin\Debug\QuickSortImplementation.pdb
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\obj\Debug\QuickSortImplementation.exe
+e:\documents\visual studio 2013\Projects\QuickSortImplementation\QuickSortImplementation\obj\Debug\QuickSortImplementation.pdb

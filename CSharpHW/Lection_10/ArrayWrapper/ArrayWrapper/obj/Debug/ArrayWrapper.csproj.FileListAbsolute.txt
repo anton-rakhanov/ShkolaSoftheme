@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\bin\Debug\ArrayWrapper.exe.config
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\bin\Debug\ArrayWrapper.exe
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\bin\Debug\ArrayWrapper.pdb
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\obj\Debug\ArrayWrapper.exe
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\obj\Debug\ArrayWrapper.pdb
+e:\documents\visual studio 2013\Projects\ArrayWrapper\ArrayWrapper\obj\Debug\ArrayWrapper.csprojResolveAssemblyReference.cache

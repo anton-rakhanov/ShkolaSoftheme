@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\bin\Debug\CopyDemonstration.exe.config
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\bin\Debug\CopyDemonstration.exe
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\bin\Debug\CopyDemonstration.pdb
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\obj\Debug\CopyDemonstration.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\obj\Debug\CopyDemonstration.exe
+e:\documents\visual studio 2013\Projects\CopyDemonstration\CopyDemonstration\obj\Debug\CopyDemonstration.pdb

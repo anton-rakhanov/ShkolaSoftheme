@@ -1,0 +1,8 @@
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\obj\Debug\ExtensionsSets.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\bin\Debug\ExtensionsSets.exe.config
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\bin\Debug\ExtensionsSets.exe
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\bin\Debug\ExtensionsSets.pdb
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\bin\Debug\InheritanceAndPolymorphizm.exe
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\bin\Debug\InheritanceAndPolymorphizm.pdb
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\obj\Debug\ExtensionsSets.exe
+e:\documents\visual studio 2013\Projects\InheritanceAndPolymorphizm\ExtensionsSets\obj\Debug\ExtensionsSets.pdb

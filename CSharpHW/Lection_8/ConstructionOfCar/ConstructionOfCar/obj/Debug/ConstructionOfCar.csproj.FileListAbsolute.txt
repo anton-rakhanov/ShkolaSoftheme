@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\ConstructionOfCar\ConstructionOfCar\bin\Debug\ConstructionOfCar.exe.config
+e:\documents\visual studio 2013\Projects\ConstructionOfCar\ConstructionOfCar\bin\Debug\ConstructionOfCar.exe
+e:\documents\visual studio 2013\Projects\ConstructionOfCar\ConstructionOfCar\bin\Debug\ConstructionOfCar.pdb
+e:\documents\visual studio 2013\Projects\ConstructionOfCar\ConstructionOfCar\obj\Debug\ConstructionOfCar.exe
+e:\documents\visual studio 2013\Projects\ConstructionOfCar\ConstructionOfCar\obj\Debug\ConstructionOfCar.pdb

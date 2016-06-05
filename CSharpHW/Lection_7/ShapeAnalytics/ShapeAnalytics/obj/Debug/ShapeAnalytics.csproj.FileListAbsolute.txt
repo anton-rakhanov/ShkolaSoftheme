@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\bin\Debug\ShapeAnalytics.exe.config
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\bin\Debug\ShapeAnalytics.exe
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\bin\Debug\ShapeAnalytics.pdb
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\obj\Debug\ShapeAnalytics.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\obj\Debug\ShapeAnalytics.exe
+e:\documents\visual studio 2013\Projects\ShapeAnalytics\ShapeAnalytics\obj\Debug\ShapeAnalytics.pdb

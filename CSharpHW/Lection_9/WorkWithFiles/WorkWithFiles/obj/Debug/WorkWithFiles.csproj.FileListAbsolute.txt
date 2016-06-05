@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe.config
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.exe
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\bin\Debug\WorkWithFiles.pdb
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.exe
+e:\documents\visual studio 2013\Projects\WorkWithFiles\WorkWithFiles\obj\Debug\WorkWithFiles.pdb

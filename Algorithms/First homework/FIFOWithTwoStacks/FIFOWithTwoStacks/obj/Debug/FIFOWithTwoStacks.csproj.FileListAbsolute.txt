@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\bin\Debug\FIFOWithTwoStacks.exe.config
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\bin\Debug\FIFOWithTwoStacks.exe
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\bin\Debug\FIFOWithTwoStacks.pdb
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\obj\Debug\FIFOWithTwoStacks.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\obj\Debug\FIFOWithTwoStacks.exe
+e:\documents\visual studio 2013\Projects\FIFOWithTwoStacks\FIFOWithTwoStacks\obj\Debug\FIFOWithTwoStacks.pdb
