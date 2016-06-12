@@ -1,0 +1,14 @@
+D:\Dropbox\CSharp_SBS\Lections\Part3_Extensible_types_C#\17_Collections_Iterator\Demo\Iterator\Iterator\bin\Debug\Iterator.exe.config
+D:\Dropbox\CSharp_SBS\Lections\Part3_Extensible_types_C#\17_Collections_Iterator\Demo\01_Iterator\Iterator\bin\Debug\Iterator.exe.config
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\bin\Debug\Iterator.exe.config
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\bin\Debug\Iterator.exe
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\bin\Debug\Iterator.pdb
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\obj\Debug\Iterator.exe
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator\Iterator\obj\Debug\Iterator.pdb
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator_genericModify\Iterator\bin\Debug\Iterator.exe.config
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator_genericModify\Iterator\obj\Debug\Iterator.exe
+E:\C#\Softheme school lectures\17_Collections_Iterator\Demo\01_Iterator_genericModify\Iterator\obj\Debug\Iterator.pdb
+E:\Documents\Visual Studio 2013\Projects\01_Iterator_genericModify\Iterator\bin\Debug\Iterator.exe.config
+E:\Documents\Visual Studio 2013\Projects\01_Iterator_genericModify\Iterator\obj\Debug\Iterator.exe
+E:\Documents\Visual Studio 2013\Projects\01_Iterator_genericModify\Iterator\obj\Debug\Iterator.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\MyCollections\MyCollections\bin\Debug\MyCollections.exe.config
+e:\documents\visual studio 2013\Projects\MyCollections\MyCollections\bin\Debug\MyCollections.exe
+e:\documents\visual studio 2013\Projects\MyCollections\MyCollections\bin\Debug\MyCollections.pdb
+e:\documents\visual studio 2013\Projects\MyCollections\MyCollections\obj\Debug\MyCollections.exe
+e:\documents\visual studio 2013\Projects\MyCollections\MyCollections\obj\Debug\MyCollections.pdb
+E:\Documents\Visual Studio 2013\Projects\MyCollections\MyCollections\obj\Debug\MyCollections.csprojResolveAssemblyReference.cache

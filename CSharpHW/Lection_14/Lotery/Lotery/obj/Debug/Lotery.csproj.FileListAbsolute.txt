@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\bin\Debug\Lotery.exe.config
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\obj\Debug\Lotery.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\bin\Debug\Lotery.exe
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\bin\Debug\Lotery.pdb
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\obj\Debug\Lotery.exe
+e:\documents\visual studio 2013\Projects\Lotery\Lotery\obj\Debug\Lotery.pdb
