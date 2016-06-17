@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\bin\Debug\QuickSortWithTailRecursion.exe.config
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\obj\Debug\QuickSortWithTailRecursion.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\bin\Debug\QuickSortWithTailRecursion.exe
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\bin\Debug\QuickSortWithTailRecursion.pdb
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\obj\Debug\QuickSortWithTailRecursion.exe
+e:\documents\visual studio 2013\Projects\QuickSortWithTailRecursion\QuickSortWithTailRecursion\obj\Debug\QuickSortWithTailRecursion.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\bin\Debug\InsertionSorts.exe.config
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\bin\Debug\InsertionSorts.exe
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\bin\Debug\InsertionSorts.pdb
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.exe
+e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.pdb
