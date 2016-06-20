@@ -1,0 +1,15 @@
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\bin\Debug\Librarium.exe.config
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\obj\Debug\Librarium.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\bin\Debug\Librarium.exe
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\bin\Debug\Librarium.pdb
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\obj\Debug\Librarium.exe
+e:\documents\visual studio 2013\Projects\Librarium\Librarium\obj\Debug\Librarium.pdb
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\bin\Debug\Librarium.exe.config
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\obj\Debug\Librarium.exe
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\obj\Debug\Librarium.pdb
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\bin\Debug\Librarium.exe
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\bin\Debug\Librarium.pdb
+C:\Users\Anton\Desktop\C#HomeWork\Lection_20\Librarium\Librarium\obj\Debug\Librarium.csprojResolveAssemblyReference.cache
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_20\Librarium\Librarium\bin\Debug\Librarium.exe.config
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_20\Librarium\Librarium\obj\Debug\Librarium.exe
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_20\Librarium\Librarium\obj\Debug\Librarium.pdb

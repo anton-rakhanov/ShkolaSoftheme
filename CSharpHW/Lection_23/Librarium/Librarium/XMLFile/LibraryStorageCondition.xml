@@ -1,0 +1,2695 @@
+<?xml version="1.0"?>
+<ArrayOfLibraryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>1</UniqueItemID>
+    <Name>Dead House</Name>
+    <Authors>
+      <string>Zung Lung</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1999-01-15T00:00:00</DateOfPublication>
+    <AmountOfPages>574</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Triller Horror</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>2</UniqueItemID>
+    <Name>Dead House</Name>
+    <Authors>
+      <string>Zung Lung</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1999-01-15T00:00:00</DateOfPublication>
+    <AmountOfPages>574</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Triller Horror</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>3</UniqueItemID>
+    <Name>Solarium</Name>
+    <Authors>
+      <string>Howard Dwon</string>
+      <string>Shila DeTankewil</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1992-07-31T00:00:00</DateOfPublication>
+    <AmountOfPages>876</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>ScienceFiction</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>4</UniqueItemID>
+    <Name>Solarium</Name>
+    <Authors>
+      <string>Howard Dwon</string>
+      <string>Shila DeTankewil</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1992-07-31T00:00:00</DateOfPublication>
+    <AmountOfPages>876</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>ScienceFiction</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>5</UniqueItemID>
+    <Name>Dark Dawn</Name>
+    <Authors>
+      <string>Climent Cort</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1987-05-18T00:00:00</DateOfPublication>
+    <AmountOfPages>657</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>6</UniqueItemID>
+    <Name>Dark Dawn</Name>
+    <Authors>
+      <string>Climent Cort</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1987-05-18T00:00:00</DateOfPublication>
+    <AmountOfPages>657</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>7</UniqueItemID>
+    <Name>Irdwin</Name>
+    <Authors>
+      <string>Foggel Barks</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1607-02-23T00:00:00</DateOfPublication>
+    <AmountOfPages>809</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Fantasy</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>8</UniqueItemID>
+    <Name>Irdwin</Name>
+    <Authors>
+      <string>Foggel Barks</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1607-02-23T00:00:00</DateOfPublication>
+    <AmountOfPages>809</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Fantasy</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>9</UniqueItemID>
+    <Name>The Place for Innocent</Name>
+    <Authors>
+      <string>Juagar Brom</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1964-03-09T00:00:00</DateOfPublication>
+    <AmountOfPages>423</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Adventure Triller</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>10</UniqueItemID>
+    <Name>The Place for Innocent</Name>
+    <Authors>
+      <string>Juagar Brom</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1964-03-09T00:00:00</DateOfPublication>
+    <AmountOfPages>423</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Adventure Triller</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>11</UniqueItemID>
+    <Name>Endless road</Name>
+    <Authors>
+      <string>Zirmala Shenada</string>
+      <string>Anneta Whiteminer</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1974-09-20T00:00:00</DateOfPublication>
+    <AmountOfPages>690</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Adventure</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>12</UniqueItemID>
+    <Name>Endless road</Name>
+    <Authors>
+      <string>Zirmala Shenada</string>
+      <string>Anneta Whiteminer</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1974-09-20T00:00:00</DateOfPublication>
+    <AmountOfPages>690</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Adventure</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>13</UniqueItemID>
+    <Name>CyberWorld</Name>
+    <Authors>
+      <string>GamersArmy Co.</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2009-11-28T00:00:00</DateOfPublication>
+    <AmountOfPages>140</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>VideoGames</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>14</UniqueItemID>
+    <Name>CyberWorld</Name>
+    <Authors>
+      <string>GamersArmy Co.</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2009-11-28T00:00:00</DateOfPublication>
+    <AmountOfPages>140</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>VideoGames</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>15</UniqueItemID>
+    <Name>Fat Sharks</Name>
+    <Authors>
+      <string>Economy Street Publish</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2013-10-08T00:00:00</DateOfPublication>
+    <AmountOfPages>103</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>Economy</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>16</UniqueItemID>
+    <Name>Fat Sharks</Name>
+    <Authors>
+      <string>Economy Street Publish</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2013-10-08T00:00:00</DateOfPublication>
+    <AmountOfPages>103</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>Economy</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>17</UniqueItemID>
+    <Name>Legacy of Science</Name>
+    <Authors>
+      <string>Old School Co.</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2015-09-21T00:00:00</DateOfPublication>
+    <AmountOfPages>185</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>Science</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Journal">
+    <UniqueItemID>18</UniqueItemID>
+    <Name>Legacy of Science</Name>
+    <Authors>
+      <string>Old School Co.</string>
+    </Authors>
+    <TypeOfItem>Journal</TypeOfItem>
+    <DateOfPublication>2015-09-21T00:00:00</DateOfPublication>
+    <AmountOfPages>185</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <JournalSubject>Science</JournalSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>19</UniqueItemID>
+    <Name>Math for 5-th Grade</Name>
+    <Authors>
+      <string>Domen Wolf</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2009-02-15T00:00:00</DateOfPublication>
+    <AmountOfPages>891</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Math</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>20</UniqueItemID>
+    <Name>Math for 5-th Grade</Name>
+    <Authors>
+      <string>Domen Wolf</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2009-02-15T00:00:00</DateOfPublication>
+    <AmountOfPages>891</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Math</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>21</UniqueItemID>
+    <Name>Physics</Name>
+    <Authors>
+      <string>Clara Richards</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2012-04-08T00:00:00</DateOfPublication>
+    <AmountOfPages>1280</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Physics</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>22</UniqueItemID>
+    <Name>Physics</Name>
+    <Authors>
+      <string>Clara Richards</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2012-04-08T00:00:00</DateOfPublication>
+    <AmountOfPages>1280</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Physics</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>23</UniqueItemID>
+    <Name>Around The World</Name>
+    <Authors>
+      <string>Marcus Riddle</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2002-11-11T00:00:00</DateOfPublication>
+    <AmountOfPages>453</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Geography</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="TextBook">
+    <UniqueItemID>24</UniqueItemID>
+    <Name>Around The World</Name>
+    <Authors>
+      <string>Marcus Riddle</string>
+    </Authors>
+    <TypeOfItem>TextBook</TypeOfItem>
+    <DateOfPublication>2002-11-11T00:00:00</DateOfPublication>
+    <AmountOfPages>453</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <TextBookSubject>Geography</TextBookSubject>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>25</UniqueItemID>
+    <Name>TestingSerializationName0</Name>
+    <Authors>
+      <string>TestingSerializationAuthor0</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>26</UniqueItemID>
+    <Name>TestingSerializationName1</Name>
+    <Authors>
+      <string>TestingSerializationAuthor1</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>27</UniqueItemID>
+    <Name>TestingSerializationName2</Name>
+    <Authors>
+      <string>TestingSerializationAuthor2</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>28</UniqueItemID>
+    <Name>TestingSerializationName3</Name>
+    <Authors>
+      <string>TestingSerializationAuthor3</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>29</UniqueItemID>
+    <Name>TestingSerializationName4</Name>
+    <Authors>
+      <string>TestingSerializationAuthor4</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>30</UniqueItemID>
+    <Name>TestingSerializationName5</Name>
+    <Authors>
+      <string>TestingSerializationAuthor5</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>31</UniqueItemID>
+    <Name>TestingSerializationName6</Name>
+    <Authors>
+      <string>TestingSerializationAuthor6</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>32</UniqueItemID>
+    <Name>TestingSerializationName7</Name>
+    <Authors>
+      <string>TestingSerializationAuthor7</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>33</UniqueItemID>
+    <Name>TestingSerializationName8</Name>
+    <Authors>
+      <string>TestingSerializationAuthor8</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>34</UniqueItemID>
+    <Name>TestingSerializationName9</Name>
+    <Authors>
+      <string>TestingSerializationAuthor9</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>35</UniqueItemID>
+    <Name>TestingSerializationName10</Name>
+    <Authors>
+      <string>TestingSerializationAuthor10</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>36</UniqueItemID>
+    <Name>TestingSerializationName11</Name>
+    <Authors>
+      <string>TestingSerializationAuthor11</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>37</UniqueItemID>
+    <Name>TestingSerializationName12</Name>
+    <Authors>
+      <string>TestingSerializationAuthor12</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>38</UniqueItemID>
+    <Name>TestingSerializationName13</Name>
+    <Authors>
+      <string>TestingSerializationAuthor13</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>39</UniqueItemID>
+    <Name>TestingSerializationName14</Name>
+    <Authors>
+      <string>TestingSerializationAuthor14</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>40</UniqueItemID>
+    <Name>TestingSerializationName15</Name>
+    <Authors>
+      <string>TestingSerializationAuthor15</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>41</UniqueItemID>
+    <Name>TestingSerializationName16</Name>
+    <Authors>
+      <string>TestingSerializationAuthor16</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>42</UniqueItemID>
+    <Name>TestingSerializationName17</Name>
+    <Authors>
+      <string>TestingSerializationAuthor17</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>43</UniqueItemID>
+    <Name>TestingSerializationName18</Name>
+    <Authors>
+      <string>TestingSerializationAuthor18</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>44</UniqueItemID>
+    <Name>TestingSerializationName19</Name>
+    <Authors>
+      <string>TestingSerializationAuthor19</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>45</UniqueItemID>
+    <Name>TestingSerializationName20</Name>
+    <Authors>
+      <string>TestingSerializationAuthor20</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>46</UniqueItemID>
+    <Name>TestingSerializationName21</Name>
+    <Authors>
+      <string>TestingSerializationAuthor21</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>47</UniqueItemID>
+    <Name>TestingSerializationName22</Name>
+    <Authors>
+      <string>TestingSerializationAuthor22</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>48</UniqueItemID>
+    <Name>TestingSerializationName23</Name>
+    <Authors>
+      <string>TestingSerializationAuthor23</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>49</UniqueItemID>
+    <Name>TestingSerializationName24</Name>
+    <Authors>
+      <string>TestingSerializationAuthor24</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>50</UniqueItemID>
+    <Name>TestingSerializationName25</Name>
+    <Authors>
+      <string>TestingSerializationAuthor25</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>51</UniqueItemID>
+    <Name>TestingSerializationName26</Name>
+    <Authors>
+      <string>TestingSerializationAuthor26</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>52</UniqueItemID>
+    <Name>TestingSerializationName27</Name>
+    <Authors>
+      <string>TestingSerializationAuthor27</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>53</UniqueItemID>
+    <Name>TestingSerializationName28</Name>
+    <Authors>
+      <string>TestingSerializationAuthor28</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>54</UniqueItemID>
+    <Name>TestingSerializationName29</Name>
+    <Authors>
+      <string>TestingSerializationAuthor29</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>55</UniqueItemID>
+    <Name>TestingSerializationName30</Name>
+    <Authors>
+      <string>TestingSerializationAuthor30</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>56</UniqueItemID>
+    <Name>TestingSerializationName31</Name>
+    <Authors>
+      <string>TestingSerializationAuthor31</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>57</UniqueItemID>
+    <Name>TestingSerializationName32</Name>
+    <Authors>
+      <string>TestingSerializationAuthor32</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>58</UniqueItemID>
+    <Name>TestingSerializationName33</Name>
+    <Authors>
+      <string>TestingSerializationAuthor33</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>59</UniqueItemID>
+    <Name>TestingSerializationName34</Name>
+    <Authors>
+      <string>TestingSerializationAuthor34</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>60</UniqueItemID>
+    <Name>TestingSerializationName35</Name>
+    <Authors>
+      <string>TestingSerializationAuthor35</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>61</UniqueItemID>
+    <Name>TestingSerializationName36</Name>
+    <Authors>
+      <string>TestingSerializationAuthor36</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>62</UniqueItemID>
+    <Name>TestingSerializationName37</Name>
+    <Authors>
+      <string>TestingSerializationAuthor37</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>63</UniqueItemID>
+    <Name>TestingSerializationName38</Name>
+    <Authors>
+      <string>TestingSerializationAuthor38</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>64</UniqueItemID>
+    <Name>TestingSerializationName39</Name>
+    <Authors>
+      <string>TestingSerializationAuthor39</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>65</UniqueItemID>
+    <Name>TestingSerializationName40</Name>
+    <Authors>
+      <string>TestingSerializationAuthor40</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>66</UniqueItemID>
+    <Name>TestingSerializationName41</Name>
+    <Authors>
+      <string>TestingSerializationAuthor41</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>67</UniqueItemID>
+    <Name>TestingSerializationName42</Name>
+    <Authors>
+      <string>TestingSerializationAuthor42</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>68</UniqueItemID>
+    <Name>TestingSerializationName43</Name>
+    <Authors>
+      <string>TestingSerializationAuthor43</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>69</UniqueItemID>
+    <Name>TestingSerializationName44</Name>
+    <Authors>
+      <string>TestingSerializationAuthor44</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>70</UniqueItemID>
+    <Name>TestingSerializationName45</Name>
+    <Authors>
+      <string>TestingSerializationAuthor45</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>71</UniqueItemID>
+    <Name>TestingSerializationName46</Name>
+    <Authors>
+      <string>TestingSerializationAuthor46</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>72</UniqueItemID>
+    <Name>TestingSerializationName47</Name>
+    <Authors>
+      <string>TestingSerializationAuthor47</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>73</UniqueItemID>
+    <Name>TestingSerializationName48</Name>
+    <Authors>
+      <string>TestingSerializationAuthor48</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>74</UniqueItemID>
+    <Name>TestingSerializationName49</Name>
+    <Authors>
+      <string>TestingSerializationAuthor49</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>75</UniqueItemID>
+    <Name>TestingSerializationName50</Name>
+    <Authors>
+      <string>TestingSerializationAuthor50</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>76</UniqueItemID>
+    <Name>TestingSerializationName51</Name>
+    <Authors>
+      <string>TestingSerializationAuthor51</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>77</UniqueItemID>
+    <Name>TestingSerializationName52</Name>
+    <Authors>
+      <string>TestingSerializationAuthor52</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>78</UniqueItemID>
+    <Name>TestingSerializationName53</Name>
+    <Authors>
+      <string>TestingSerializationAuthor53</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>79</UniqueItemID>
+    <Name>TestingSerializationName54</Name>
+    <Authors>
+      <string>TestingSerializationAuthor54</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>80</UniqueItemID>
+    <Name>TestingSerializationName55</Name>
+    <Authors>
+      <string>TestingSerializationAuthor55</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>81</UniqueItemID>
+    <Name>TestingSerializationName56</Name>
+    <Authors>
+      <string>TestingSerializationAuthor56</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>82</UniqueItemID>
+    <Name>TestingSerializationName57</Name>
+    <Authors>
+      <string>TestingSerializationAuthor57</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>83</UniqueItemID>
+    <Name>TestingSerializationName58</Name>
+    <Authors>
+      <string>TestingSerializationAuthor58</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>84</UniqueItemID>
+    <Name>TestingSerializationName59</Name>
+    <Authors>
+      <string>TestingSerializationAuthor59</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>85</UniqueItemID>
+    <Name>TestingSerializationName60</Name>
+    <Authors>
+      <string>TestingSerializationAuthor60</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>86</UniqueItemID>
+    <Name>TestingSerializationName61</Name>
+    <Authors>
+      <string>TestingSerializationAuthor61</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>87</UniqueItemID>
+    <Name>TestingSerializationName62</Name>
+    <Authors>
+      <string>TestingSerializationAuthor62</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>88</UniqueItemID>
+    <Name>TestingSerializationName63</Name>
+    <Authors>
+      <string>TestingSerializationAuthor63</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>89</UniqueItemID>
+    <Name>TestingSerializationName64</Name>
+    <Authors>
+      <string>TestingSerializationAuthor64</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>90</UniqueItemID>
+    <Name>TestingSerializationName65</Name>
+    <Authors>
+      <string>TestingSerializationAuthor65</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>91</UniqueItemID>
+    <Name>TestingSerializationName66</Name>
+    <Authors>
+      <string>TestingSerializationAuthor66</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>92</UniqueItemID>
+    <Name>TestingSerializationName67</Name>
+    <Authors>
+      <string>TestingSerializationAuthor67</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>93</UniqueItemID>
+    <Name>TestingSerializationName68</Name>
+    <Authors>
+      <string>TestingSerializationAuthor68</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>94</UniqueItemID>
+    <Name>TestingSerializationName69</Name>
+    <Authors>
+      <string>TestingSerializationAuthor69</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>95</UniqueItemID>
+    <Name>TestingSerializationName70</Name>
+    <Authors>
+      <string>TestingSerializationAuthor70</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>96</UniqueItemID>
+    <Name>TestingSerializationName71</Name>
+    <Authors>
+      <string>TestingSerializationAuthor71</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>97</UniqueItemID>
+    <Name>TestingSerializationName72</Name>
+    <Authors>
+      <string>TestingSerializationAuthor72</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>98</UniqueItemID>
+    <Name>TestingSerializationName73</Name>
+    <Authors>
+      <string>TestingSerializationAuthor73</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>99</UniqueItemID>
+    <Name>TestingSerializationName74</Name>
+    <Authors>
+      <string>TestingSerializationAuthor74</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>100</UniqueItemID>
+    <Name>TestingSerializationName75</Name>
+    <Authors>
+      <string>TestingSerializationAuthor75</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>101</UniqueItemID>
+    <Name>TestingSerializationName76</Name>
+    <Authors>
+      <string>TestingSerializationAuthor76</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>102</UniqueItemID>
+    <Name>TestingSerializationName77</Name>
+    <Authors>
+      <string>TestingSerializationAuthor77</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>103</UniqueItemID>
+    <Name>TestingSerializationName78</Name>
+    <Authors>
+      <string>TestingSerializationAuthor78</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>104</UniqueItemID>
+    <Name>TestingSerializationName79</Name>
+    <Authors>
+      <string>TestingSerializationAuthor79</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>105</UniqueItemID>
+    <Name>TestingSerializationName80</Name>
+    <Authors>
+      <string>TestingSerializationAuthor80</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>106</UniqueItemID>
+    <Name>TestingSerializationName81</Name>
+    <Authors>
+      <string>TestingSerializationAuthor81</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>107</UniqueItemID>
+    <Name>TestingSerializationName82</Name>
+    <Authors>
+      <string>TestingSerializationAuthor82</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>108</UniqueItemID>
+    <Name>TestingSerializationName83</Name>
+    <Authors>
+      <string>TestingSerializationAuthor83</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>109</UniqueItemID>
+    <Name>TestingSerializationName84</Name>
+    <Authors>
+      <string>TestingSerializationAuthor84</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>110</UniqueItemID>
+    <Name>TestingSerializationName85</Name>
+    <Authors>
+      <string>TestingSerializationAuthor85</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>111</UniqueItemID>
+    <Name>TestingSerializationName86</Name>
+    <Authors>
+      <string>TestingSerializationAuthor86</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>112</UniqueItemID>
+    <Name>TestingSerializationName87</Name>
+    <Authors>
+      <string>TestingSerializationAuthor87</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>113</UniqueItemID>
+    <Name>TestingSerializationName88</Name>
+    <Authors>
+      <string>TestingSerializationAuthor88</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>114</UniqueItemID>
+    <Name>TestingSerializationName89</Name>
+    <Authors>
+      <string>TestingSerializationAuthor89</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>115</UniqueItemID>
+    <Name>TestingSerializationName90</Name>
+    <Authors>
+      <string>TestingSerializationAuthor90</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>116</UniqueItemID>
+    <Name>TestingSerializationName91</Name>
+    <Authors>
+      <string>TestingSerializationAuthor91</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>117</UniqueItemID>
+    <Name>TestingSerializationName92</Name>
+    <Authors>
+      <string>TestingSerializationAuthor92</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>118</UniqueItemID>
+    <Name>TestingSerializationName93</Name>
+    <Authors>
+      <string>TestingSerializationAuthor93</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>119</UniqueItemID>
+    <Name>TestingSerializationName94</Name>
+    <Authors>
+      <string>TestingSerializationAuthor94</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>120</UniqueItemID>
+    <Name>TestingSerializationName95</Name>
+    <Authors>
+      <string>TestingSerializationAuthor95</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>121</UniqueItemID>
+    <Name>TestingSerializationName96</Name>
+    <Authors>
+      <string>TestingSerializationAuthor96</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>122</UniqueItemID>
+    <Name>TestingSerializationName97</Name>
+    <Authors>
+      <string>TestingSerializationAuthor97</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>123</UniqueItemID>
+    <Name>TestingSerializationName98</Name>
+    <Authors>
+      <string>TestingSerializationAuthor98</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>124</UniqueItemID>
+    <Name>TestingSerializationName99</Name>
+    <Authors>
+      <string>TestingSerializationAuthor99</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>125</UniqueItemID>
+    <Name>TestingSerializationName100</Name>
+    <Authors>
+      <string>TestingSerializationAuthor100</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>126</UniqueItemID>
+    <Name>TestingSerializationName101</Name>
+    <Authors>
+      <string>TestingSerializationAuthor101</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>127</UniqueItemID>
+    <Name>TestingSerializationName102</Name>
+    <Authors>
+      <string>TestingSerializationAuthor102</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>128</UniqueItemID>
+    <Name>TestingSerializationName103</Name>
+    <Authors>
+      <string>TestingSerializationAuthor103</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>129</UniqueItemID>
+    <Name>TestingSerializationName104</Name>
+    <Authors>
+      <string>TestingSerializationAuthor104</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>130</UniqueItemID>
+    <Name>TestingSerializationName105</Name>
+    <Authors>
+      <string>TestingSerializationAuthor105</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>131</UniqueItemID>
+    <Name>TestingSerializationName106</Name>
+    <Authors>
+      <string>TestingSerializationAuthor106</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>132</UniqueItemID>
+    <Name>TestingSerializationName107</Name>
+    <Authors>
+      <string>TestingSerializationAuthor107</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>133</UniqueItemID>
+    <Name>TestingSerializationName108</Name>
+    <Authors>
+      <string>TestingSerializationAuthor108</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>134</UniqueItemID>
+    <Name>TestingSerializationName109</Name>
+    <Authors>
+      <string>TestingSerializationAuthor109</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>135</UniqueItemID>
+    <Name>TestingSerializationName110</Name>
+    <Authors>
+      <string>TestingSerializationAuthor110</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>136</UniqueItemID>
+    <Name>TestingSerializationName111</Name>
+    <Authors>
+      <string>TestingSerializationAuthor111</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>137</UniqueItemID>
+    <Name>TestingSerializationName112</Name>
+    <Authors>
+      <string>TestingSerializationAuthor112</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>138</UniqueItemID>
+    <Name>TestingSerializationName113</Name>
+    <Authors>
+      <string>TestingSerializationAuthor113</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>139</UniqueItemID>
+    <Name>TestingSerializationName114</Name>
+    <Authors>
+      <string>TestingSerializationAuthor114</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>140</UniqueItemID>
+    <Name>TestingSerializationName115</Name>
+    <Authors>
+      <string>TestingSerializationAuthor115</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>141</UniqueItemID>
+    <Name>TestingSerializationName116</Name>
+    <Authors>
+      <string>TestingSerializationAuthor116</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>142</UniqueItemID>
+    <Name>TestingSerializationName117</Name>
+    <Authors>
+      <string>TestingSerializationAuthor117</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>143</UniqueItemID>
+    <Name>TestingSerializationName118</Name>
+    <Authors>
+      <string>TestingSerializationAuthor118</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>144</UniqueItemID>
+    <Name>TestingSerializationName119</Name>
+    <Authors>
+      <string>TestingSerializationAuthor119</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>145</UniqueItemID>
+    <Name>TestingSerializationName120</Name>
+    <Authors>
+      <string>TestingSerializationAuthor120</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>146</UniqueItemID>
+    <Name>TestingSerializationName121</Name>
+    <Authors>
+      <string>TestingSerializationAuthor121</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>147</UniqueItemID>
+    <Name>TestingSerializationName122</Name>
+    <Authors>
+      <string>TestingSerializationAuthor122</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>148</UniqueItemID>
+    <Name>TestingSerializationName123</Name>
+    <Authors>
+      <string>TestingSerializationAuthor123</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>149</UniqueItemID>
+    <Name>TestingSerializationName124</Name>
+    <Authors>
+      <string>TestingSerializationAuthor124</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>150</UniqueItemID>
+    <Name>TestingSerializationName125</Name>
+    <Authors>
+      <string>TestingSerializationAuthor125</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>151</UniqueItemID>
+    <Name>TestingSerializationName126</Name>
+    <Authors>
+      <string>TestingSerializationAuthor126</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>152</UniqueItemID>
+    <Name>TestingSerializationName127</Name>
+    <Authors>
+      <string>TestingSerializationAuthor127</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>153</UniqueItemID>
+    <Name>TestingSerializationName128</Name>
+    <Authors>
+      <string>TestingSerializationAuthor128</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>154</UniqueItemID>
+    <Name>TestingSerializationName129</Name>
+    <Authors>
+      <string>TestingSerializationAuthor129</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>155</UniqueItemID>
+    <Name>TestingSerializationName130</Name>
+    <Authors>
+      <string>TestingSerializationAuthor130</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>156</UniqueItemID>
+    <Name>TestingSerializationName131</Name>
+    <Authors>
+      <string>TestingSerializationAuthor131</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>157</UniqueItemID>
+    <Name>TestingSerializationName132</Name>
+    <Authors>
+      <string>TestingSerializationAuthor132</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>158</UniqueItemID>
+    <Name>TestingSerializationName133</Name>
+    <Authors>
+      <string>TestingSerializationAuthor133</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>159</UniqueItemID>
+    <Name>TestingSerializationName134</Name>
+    <Authors>
+      <string>TestingSerializationAuthor134</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>160</UniqueItemID>
+    <Name>TestingSerializationName135</Name>
+    <Authors>
+      <string>TestingSerializationAuthor135</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>161</UniqueItemID>
+    <Name>TestingSerializationName136</Name>
+    <Authors>
+      <string>TestingSerializationAuthor136</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>162</UniqueItemID>
+    <Name>TestingSerializationName137</Name>
+    <Authors>
+      <string>TestingSerializationAuthor137</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>163</UniqueItemID>
+    <Name>TestingSerializationName138</Name>
+    <Authors>
+      <string>TestingSerializationAuthor138</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>164</UniqueItemID>
+    <Name>TestingSerializationName139</Name>
+    <Authors>
+      <string>TestingSerializationAuthor139</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>165</UniqueItemID>
+    <Name>TestingSerializationName140</Name>
+    <Authors>
+      <string>TestingSerializationAuthor140</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>166</UniqueItemID>
+    <Name>TestingSerializationName141</Name>
+    <Authors>
+      <string>TestingSerializationAuthor141</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>167</UniqueItemID>
+    <Name>TestingSerializationName142</Name>
+    <Authors>
+      <string>TestingSerializationAuthor142</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>168</UniqueItemID>
+    <Name>TestingSerializationName143</Name>
+    <Authors>
+      <string>TestingSerializationAuthor143</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>169</UniqueItemID>
+    <Name>TestingSerializationName144</Name>
+    <Authors>
+      <string>TestingSerializationAuthor144</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>170</UniqueItemID>
+    <Name>TestingSerializationName145</Name>
+    <Authors>
+      <string>TestingSerializationAuthor145</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>171</UniqueItemID>
+    <Name>TestingSerializationName146</Name>
+    <Authors>
+      <string>TestingSerializationAuthor146</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>172</UniqueItemID>
+    <Name>TestingSerializationName147</Name>
+    <Authors>
+      <string>TestingSerializationAuthor147</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>173</UniqueItemID>
+    <Name>TestingSerializationName148</Name>
+    <Authors>
+      <string>TestingSerializationAuthor148</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>174</UniqueItemID>
+    <Name>TestingSerializationName149</Name>
+    <Authors>
+      <string>TestingSerializationAuthor149</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>175</UniqueItemID>
+    <Name>TestingSerializationName150</Name>
+    <Authors>
+      <string>TestingSerializationAuthor150</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>176</UniqueItemID>
+    <Name>TestingSerializationName151</Name>
+    <Authors>
+      <string>TestingSerializationAuthor151</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>177</UniqueItemID>
+    <Name>TestingSerializationName152</Name>
+    <Authors>
+      <string>TestingSerializationAuthor152</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>178</UniqueItemID>
+    <Name>TestingSerializationName153</Name>
+    <Authors>
+      <string>TestingSerializationAuthor153</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>179</UniqueItemID>
+    <Name>TestingSerializationName154</Name>
+    <Authors>
+      <string>TestingSerializationAuthor154</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>180</UniqueItemID>
+    <Name>TestingSerializationName155</Name>
+    <Authors>
+      <string>TestingSerializationAuthor155</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>181</UniqueItemID>
+    <Name>TestingSerializationName156</Name>
+    <Authors>
+      <string>TestingSerializationAuthor156</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>182</UniqueItemID>
+    <Name>TestingSerializationName157</Name>
+    <Authors>
+      <string>TestingSerializationAuthor157</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>183</UniqueItemID>
+    <Name>TestingSerializationName158</Name>
+    <Authors>
+      <string>TestingSerializationAuthor158</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>184</UniqueItemID>
+    <Name>TestingSerializationName159</Name>
+    <Authors>
+      <string>TestingSerializationAuthor159</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>185</UniqueItemID>
+    <Name>TestingSerializationName160</Name>
+    <Authors>
+      <string>TestingSerializationAuthor160</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>186</UniqueItemID>
+    <Name>TestingSerializationName161</Name>
+    <Authors>
+      <string>TestingSerializationAuthor161</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>187</UniqueItemID>
+    <Name>TestingSerializationName162</Name>
+    <Authors>
+      <string>TestingSerializationAuthor162</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>188</UniqueItemID>
+    <Name>TestingSerializationName163</Name>
+    <Authors>
+      <string>TestingSerializationAuthor163</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>189</UniqueItemID>
+    <Name>TestingSerializationName164</Name>
+    <Authors>
+      <string>TestingSerializationAuthor164</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>190</UniqueItemID>
+    <Name>TestingSerializationName165</Name>
+    <Authors>
+      <string>TestingSerializationAuthor165</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>191</UniqueItemID>
+    <Name>TestingSerializationName166</Name>
+    <Authors>
+      <string>TestingSerializationAuthor166</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>192</UniqueItemID>
+    <Name>TestingSerializationName167</Name>
+    <Authors>
+      <string>TestingSerializationAuthor167</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>193</UniqueItemID>
+    <Name>TestingSerializationName168</Name>
+    <Authors>
+      <string>TestingSerializationAuthor168</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>194</UniqueItemID>
+    <Name>TestingSerializationName169</Name>
+    <Authors>
+      <string>TestingSerializationAuthor169</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>195</UniqueItemID>
+    <Name>TestingSerializationName170</Name>
+    <Authors>
+      <string>TestingSerializationAuthor170</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>196</UniqueItemID>
+    <Name>TestingSerializationName171</Name>
+    <Authors>
+      <string>TestingSerializationAuthor171</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>197</UniqueItemID>
+    <Name>TestingSerializationName172</Name>
+    <Authors>
+      <string>TestingSerializationAuthor172</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>198</UniqueItemID>
+    <Name>TestingSerializationName173</Name>
+    <Authors>
+      <string>TestingSerializationAuthor173</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>199</UniqueItemID>
+    <Name>TestingSerializationName174</Name>
+    <Authors>
+      <string>TestingSerializationAuthor174</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>200</UniqueItemID>
+    <Name>TestingSerializationName175</Name>
+    <Authors>
+      <string>TestingSerializationAuthor175</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>201</UniqueItemID>
+    <Name>TestingSerializationName176</Name>
+    <Authors>
+      <string>TestingSerializationAuthor176</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>202</UniqueItemID>
+    <Name>TestingSerializationName177</Name>
+    <Authors>
+      <string>TestingSerializationAuthor177</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>203</UniqueItemID>
+    <Name>TestingSerializationName178</Name>
+    <Authors>
+      <string>TestingSerializationAuthor178</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>204</UniqueItemID>
+    <Name>TestingSerializationName179</Name>
+    <Authors>
+      <string>TestingSerializationAuthor179</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>205</UniqueItemID>
+    <Name>TestingSerializationName180</Name>
+    <Authors>
+      <string>TestingSerializationAuthor180</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>206</UniqueItemID>
+    <Name>TestingSerializationName181</Name>
+    <Authors>
+      <string>TestingSerializationAuthor181</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>207</UniqueItemID>
+    <Name>TestingSerializationName182</Name>
+    <Authors>
+      <string>TestingSerializationAuthor182</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>208</UniqueItemID>
+    <Name>TestingSerializationName183</Name>
+    <Authors>
+      <string>TestingSerializationAuthor183</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>209</UniqueItemID>
+    <Name>TestingSerializationName184</Name>
+    <Authors>
+      <string>TestingSerializationAuthor184</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>210</UniqueItemID>
+    <Name>TestingSerializationName185</Name>
+    <Authors>
+      <string>TestingSerializationAuthor185</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>211</UniqueItemID>
+    <Name>TestingSerializationName186</Name>
+    <Authors>
+      <string>TestingSerializationAuthor186</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>212</UniqueItemID>
+    <Name>TestingSerializationName187</Name>
+    <Authors>
+      <string>TestingSerializationAuthor187</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>213</UniqueItemID>
+    <Name>TestingSerializationName188</Name>
+    <Authors>
+      <string>TestingSerializationAuthor188</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>214</UniqueItemID>
+    <Name>TestingSerializationName189</Name>
+    <Authors>
+      <string>TestingSerializationAuthor189</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>215</UniqueItemID>
+    <Name>TestingSerializationName190</Name>
+    <Authors>
+      <string>TestingSerializationAuthor190</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>216</UniqueItemID>
+    <Name>TestingSerializationName191</Name>
+    <Authors>
+      <string>TestingSerializationAuthor191</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>217</UniqueItemID>
+    <Name>TestingSerializationName192</Name>
+    <Authors>
+      <string>TestingSerializationAuthor192</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>218</UniqueItemID>
+    <Name>TestingSerializationName193</Name>
+    <Authors>
+      <string>TestingSerializationAuthor193</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>219</UniqueItemID>
+    <Name>TestingSerializationName194</Name>
+    <Authors>
+      <string>TestingSerializationAuthor194</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>220</UniqueItemID>
+    <Name>TestingSerializationName195</Name>
+    <Authors>
+      <string>TestingSerializationAuthor195</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>221</UniqueItemID>
+    <Name>TestingSerializationName196</Name>
+    <Authors>
+      <string>TestingSerializationAuthor196</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>222</UniqueItemID>
+    <Name>TestingSerializationName197</Name>
+    <Authors>
+      <string>TestingSerializationAuthor197</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>223</UniqueItemID>
+    <Name>TestingSerializationName198</Name>
+    <Authors>
+      <string>TestingSerializationAuthor198</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+  <LibraryItem xsi:type="Book">
+    <UniqueItemID>224</UniqueItemID>
+    <Name>TestingSerializationName199</Name>
+    <Authors>
+      <string>TestingSerializationAuthor199</string>
+    </Authors>
+    <TypeOfItem>Book</TypeOfItem>
+    <DateOfPublication>1800-01-01T00:00:00</DateOfPublication>
+    <AmountOfPages>1000</AmountOfPages>
+    <PopularityIndex>1</PopularityIndex>
+    <GenreOfBook>Drama</GenreOfBook>
+  </LibraryItem>
+</ArrayOfLibraryItem>

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\bin\Debug\MobileManagment.exe.config
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\bin\Debug\MobileManagment.exe
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\bin\Debug\MobileManagment.pdb
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\obj\Debug\MobileManagment.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\obj\Debug\MobileManagment.exe
+e:\documents\visual studio 2013\Projects\MobileManagment\MobileManagment\obj\Debug\MobileManagment.pdb
