@@ -168,6 +168,7 @@ namespace Librarium.ZIPCompressor
 
         public LibraryItem DeserializeLibraryItem(XElement xElem)
         {
+
             var serializer = new XmlSerializer(typeof(LibraryItem));
             var item = serializer.Deserialize(xElem.CreateReader()) as LibraryItem;
 

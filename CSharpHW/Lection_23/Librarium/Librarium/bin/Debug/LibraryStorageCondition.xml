@@ -2699,7 +2699,7 @@
       <string>Damil Akra</string>
     </Authors>
     <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
+    <DateOfPublication>12/1/1965 12:00:00 AM</DateOfPublication>
     <AmountOfPages>903</AmountOfPages>
     <PopularityIndex>1</PopularityIndex>
     <GenreOfBook>Drama</GenreOfBook>
@@ -2711,7 +2711,7 @@
       <string>Damil Akra</string>
     </Authors>
     <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
+    <DateOfPublication>12/1/1965 12:00:00 AM</DateOfPublication>
     <AmountOfPages>903</AmountOfPages>
     <PopularityIndex>1</PopularityIndex>
     <GenreOfBook>Drama</GenreOfBook>
@@ -2723,43 +2723,7 @@
       <string>Damil Akra</string>
     </Authors>
     <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
-    <AmountOfPages>903</AmountOfPages>
-    <PopularityIndex>1</PopularityIndex>
-    <GenreOfBook>Drama</GenreOfBook>
-  </LibraryItem>
-  <LibraryItem xsi:type="Book">
-    <UniqueItemID>225</UniqueItemID>
-    <Name>Blood For The King</Name>
-    <Authors>
-      <string>Damil Akra</string>
-    </Authors>
-    <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
-    <AmountOfPages>903</AmountOfPages>
-    <PopularityIndex>1</PopularityIndex>
-    <GenreOfBook>Drama</GenreOfBook>
-  </LibraryItem>
-  <LibraryItem xsi:type="Book">
-    <UniqueItemID>225</UniqueItemID>
-    <Name>Blood For The King</Name>
-    <Authors>
-      <string>Damil Akra</string>
-    </Authors>
-    <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
-    <AmountOfPages>903</AmountOfPages>
-    <PopularityIndex>1</PopularityIndex>
-    <GenreOfBook>Drama</GenreOfBook>
-  </LibraryItem>
-  <LibraryItem xsi:type="Book">
-    <UniqueItemID>225</UniqueItemID>
-    <Name>Blood For The King</Name>
-    <Authors>
-      <string>Damil Akra</string>
-    </Authors>
-    <TypeOfItem>Book</TypeOfItem>
-    <DateOfPublication>01.12.1965 0:00:00</DateOfPublication>
+    <DateOfPublication>12/1/1965 12:00:00 AM</DateOfPublication>
     <AmountOfPages>903</AmountOfPages>
     <PopularityIndex>1</PopularityIndex>
     <GenreOfBook>Drama</GenreOfBook>

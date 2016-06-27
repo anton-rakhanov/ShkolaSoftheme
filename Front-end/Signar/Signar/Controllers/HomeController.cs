@@ -27,7 +27,7 @@ namespace Signar.Controllers
             return View();
         }
 
-        public ActionResult Test()
+        public ActionResult DashBoard()
         {
             ViewBag.Message = "Test page";
 

@@ -19,8 +19,9 @@ namespace Librarium.Data.LibraryExtensionMethods
                                .Where(li => li.Elements("Name")
                                    .Any(f => ((string)f == name)));
 
+            var listResult = searchResult.ToList();
 
-            foreach (var root in searchResult)
+            foreach (var root in listResult)
             {
 
                 var rootXElements = root.Elements();
@@ -47,8 +48,9 @@ namespace Librarium.Data.LibraryExtensionMethods
                                        .Elements("string")
                                            .Any(f => ((string)f == author)));
 
+                var listResult = searchResult.ToList();
 
-                foreach (var root in searchResult)
+                foreach (var root in listResult)
                 {
 
                     var rootXElements = root.Elements();
@@ -78,8 +80,9 @@ namespace Librarium.Data.LibraryExtensionMethods
                                                .Elements("string")
                                                    .Any(f => ((string)f == author)));
 
+                var listResult = searchResult.ToList();
 
-                foreach (var root in searchResult)
+                foreach (var root in listResult)
                 {
 
                     var rootXElements = root.Elements();
@@ -153,10 +156,14 @@ namespace Librarium.Data.LibraryExtensionMethods
                                .Where(li => li.Elements("Name")
                                    .Any(f => ((string)f == name)));
 
-            foreach(var root in searchResult)
+            var listResult = searchResult.ToList();
+
+            foreach (var root in listResult)
             {
                 var xmlSerializator = new XMLSerializator();
-                return xmlSerializator.DeserializeLibraryItem(root);
+                var findedItem = xmlSerializator.DeserializeLibraryItem(root);
+                root.Remove();
+                return findedItem;
             }
 
 
@@ -175,9 +182,18 @@ namespace Librarium.Data.LibraryExtensionMethods
                                    .Where(li => li.Elements("Authors")
                                        .Elements("string")
                                            .Any(f => ((string)f == author)));
+
+                var listResult = searchResult.ToList();
+
+                foreach (var root in listResult)
+                {
+                    var xmlSerializator = new XMLSerializator();
+                    var findedItem = xmlSerializator.DeserializeLibraryItem(root);
+                    root.Remove();
+                    return findedItem;
+                }
+
             }
-
-
 
             return null;
         }
@@ -196,15 +212,18 @@ namespace Librarium.Data.LibraryExtensionMethods
                                             && li.Elements("Authors")
                                                .Elements("string")
                                                    .Any(f => ((string)f == author)));
+
+                var listResult = searchResult.ToList();
+
+                foreach (var root in listResult)
+                {
+                    var xmlSerializator = new XMLSerializator();
+                    var findedItem = xmlSerializator.DeserializeLibraryItem(root);
+                    root.Remove();
+                    return findedItem;
+                }
+
             }
-
-
-            return null;
-        }
-
-
-        public static List<LibraryItem> SelectLibraryItemBy(IEnumerable<XElement> query)
-        {
 
             return null;
         }

@@ -37,3 +37,12 @@ C:\Users\Anton\Desktop\C#HomeWork\Lection_23\Librarium\Librarium\bin\Debug\proto
 C:\Users\Anton\Desktop\C#HomeWork\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.pdb
 C:\Users\Anton\Desktop\C#HomeWork\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.xml
 C:\Users\Anton\Desktop\C#HomeWork\Lection_23\Librarium\Librarium\obj\Debug\Librarium.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\Librarium.exe.config
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.pdb
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\Librarium.exe
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\Librarium.pdb
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.dll
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.pdb
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.xml
+C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.csprojResolveAssemblyReference.cache
