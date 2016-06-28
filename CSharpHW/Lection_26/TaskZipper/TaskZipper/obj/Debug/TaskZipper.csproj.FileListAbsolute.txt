@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\bin\Debug\TaskZipper.exe.config
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\bin\Debug\TaskZipper.exe
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\bin\Debug\TaskZipper.pdb
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\obj\Debug\TaskZipper.exe
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\obj\Debug\TaskZipper.pdb
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskZipper\obj\Debug\TaskZipper.csprojResolveAssemblyReference.cache

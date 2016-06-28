@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\obj\Debug\ThreadUnzipper.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\bin\Debug\ThreadUnzipper.exe.config
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\bin\Debug\ThreadUnzipper.exe
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\bin\Debug\ThreadUnzipper.pdb
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\obj\Debug\ThreadUnzipper.exe
+e:\documents\visual studio 2013\Projects\Threads\ThreadUnzipper\obj\Debug\ThreadUnzipper.pdb

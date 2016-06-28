@@ -118,7 +118,6 @@ namespace Librarium.Data.LibraryExtensionMethods
 
             foreach (var author in item.Authors)
             {
-                //newItem.Elements().Where(a => a.Name.Equals("Authors"));
                 newItem.Element("Authors").Add(new XElement("string", author));
             }
 

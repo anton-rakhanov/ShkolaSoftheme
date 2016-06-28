@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\bin\Debug\ThreadZipper.exe.config
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\obj\Debug\ThreadZipper.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\bin\Debug\ThreadZipper.exe
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\bin\Debug\ThreadZipper.pdb
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\obj\Debug\ThreadZipper.exe
+e:\documents\visual studio 2013\Projects\Threads\ThreadZipper\obj\Debug\ThreadZipper.pdb

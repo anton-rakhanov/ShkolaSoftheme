@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadZipper", "ThreadZipper\ThreadZipper.csproj", "{6BA146F9-AE7E-43B9-85B3-D1938DB2A55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadUnzipper", "ThreadUnzipper\ThreadUnzipper.csproj", "{7D14EC69-CD24-43D4-81A5-F335A034204D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA146F9-AE7E-43B9-85B3-D1938DB2A55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA146F9-AE7E-43B9-85B3-D1938DB2A55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA146F9-AE7E-43B9-85B3-D1938DB2A55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA146F9-AE7E-43B9-85B3-D1938DB2A55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D14EC69-CD24-43D4-81A5-F335A034204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D14EC69-CD24-43D4-81A5-F335A034204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D14EC69-CD24-43D4-81A5-F335A034204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D14EC69-CD24-43D4-81A5-F335A034204D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

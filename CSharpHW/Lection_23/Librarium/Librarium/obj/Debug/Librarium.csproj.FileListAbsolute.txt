@@ -46,3 +46,6 @@ C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\
 C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.pdb
 C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\protobuf-net.xml
 C:\Users\1\Documents\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.csprojResolveAssemblyReference.cache
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\bin\Debug\Librarium.exe.config
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.exe
+E:\C#\Repositories\ShkolaSoftheme\CSharpHW\Lection_23\Librarium\Librarium\obj\Debug\Librarium.pdb

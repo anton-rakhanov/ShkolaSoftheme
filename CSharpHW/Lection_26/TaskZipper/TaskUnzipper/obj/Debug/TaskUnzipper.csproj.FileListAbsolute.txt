@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\bin\Debug\TaskUnzipper.exe.config
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\obj\Debug\TaskUnzipper.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\bin\Debug\TaskUnzipper.exe
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\bin\Debug\TaskUnzipper.pdb
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\obj\Debug\TaskUnzipper.exe
+e:\documents\visual studio 2013\Projects\TaskZipper\TaskUnzipper\obj\Debug\TaskUnzipper.pdb
