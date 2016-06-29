@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AsignarDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Attachment">
+    <Key>
+      <PropertyRef Name="AttachmentID" />
+    </Key>
+    <Property Name="AttachmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BugID" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContentPath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Bug" Relationship="Self.FK__Attachmen__BugID__4222D4EF" FromRole="Attachments" ToRole="Bugs" />
+  </EntityType>
+  <EntityType Name="Bug">
+    <Key>
+      <PropertyRef Name="BugID" />
+    </Key>
+    <Property Name="BugID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Subject" Type="String" MaxLength="254" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AssigneeID" Type="Int32" />
+    <Property Name="ProjectID" Type="Int32" Nullable="false" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModificationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="BugStatus" Type="Byte" Nullable="false" />
+    <Property Name="Priority" Type="Byte" Nullable="false" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Attachments" Relationship="Self.FK__Attachmen__BugID__4222D4EF" FromRole="Bugs" ToRole="Attachments" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Bugs__AssigneeID__4316F928" FromRole="Bugs" ToRole="Users" />
+    <NavigationProperty Name="Project" Relationship="Self.FK__Bugs__ProjectID__440B1D61" FromRole="Bugs" ToRole="Projects" />
+    <NavigationProperty Name="Comments" Relationship="Self.FK__Comments__BugID__44FF419A" FromRole="Bugs" ToRole="Comments" />
+  </EntityType>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="CommentID" />
+    </Key>
+    <Property Name="CommentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModificationDate" Type="DateTime" Precision="3" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="BugID" Type="Int32" Nullable="false" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Bug" Relationship="Self.FK__Comments__BugID__44FF419A" FromRole="Comments" ToRole="Bugs" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Comments__UserID__45F365D3" FromRole="Comments" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Filter">
+    <Key>
+      <PropertyRef Name="FilterID" />
+    </Key>
+    <Property Name="FilterID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="254" FixedLength="false" Unicode="true" />
+    <Property Name="FilterContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Filters__UserID__46E78A0C" FromRole="Filters" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="254" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Prefix" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Bugs" Relationship="Self.FK__Bugs__ProjectID__440B1D61" FromRole="Projects" ToRole="Bugs" />
+    <NavigationProperty Name="UsersToProjects" Relationship="Self.FK__UsersToPr__Proje__47DBAE45" FromRole="Projects" ToRole="UsersToProjects" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="35" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="35" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="254" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AvatarImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Login" Type="String" MaxLength="254" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="254" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsAdmin" Type="Boolean" Nullable="false" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Bugs" Relationship="Self.FK__Bugs__AssigneeID__4316F928" FromRole="Users" ToRole="Bugs" />
+    <NavigationProperty Name="Comments" Relationship="Self.FK__Comments__UserID__45F365D3" FromRole="Users" ToRole="Comments" />
+    <NavigationProperty Name="Filters" Relationship="Self.FK__Filters__UserID__46E78A0C" FromRole="Users" ToRole="Filters" />
+    <NavigationProperty Name="UsersToProjects" Relationship="Self.FK__UsersToPr__UserI__48CFD27E" FromRole="Users" ToRole="UsersToProjects" />
+  </EntityType>
+  <EntityType Name="UsersToProject">
+    <Key>
+      <PropertyRef Name="UserID" />
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="ProjectID" Type="Int32" Nullable="false" />
+    <Property Name="Version" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Project" Relationship="Self.FK__UsersToPr__Proje__47DBAE45" FromRole="UsersToProjects" ToRole="Projects" />
+    <NavigationProperty Name="User" Relationship="Self.FK__UsersToPr__UserI__48CFD27E" FromRole="UsersToProjects" ToRole="Users" />
+  </EntityType>
+  <Association Name="FK__Attachmen__BugID__4222D4EF">
+    <End Role="Bugs" Type="Self.Bug" Multiplicity="1" />
+    <End Role="Attachments" Type="Self.Attachment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bugs">
+        <PropertyRef Name="BugID" />
+      </Principal>
+      <Dependent Role="Attachments">
+        <PropertyRef Name="BugID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Bugs__AssigneeID__4316F928">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Bugs" Type="Self.Bug" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Bugs">
+        <PropertyRef Name="AssigneeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Bugs__ProjectID__440B1D61">
+    <End Role="Projects" Type="Self.Project" Multiplicity="1" />
+    <End Role="Bugs" Type="Self.Bug" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projects">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Bugs">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Comments__BugID__44FF419A">
+    <End Role="Bugs" Type="Self.Bug" Multiplicity="1" />
+    <End Role="Comments" Type="Self.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bugs">
+        <PropertyRef Name="BugID" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="BugID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Comments__UserID__45F365D3">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Comments" Type="Self.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Comments">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Filters__UserID__46E78A0C">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Filters" Type="Self.Filter" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Filters">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersToPr__Proje__47DBAE45">
+    <End Role="Projects" Type="Self.Project" Multiplicity="1" />
+    <End Role="UsersToProjects" Type="Self.UsersToProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projects">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="UsersToProjects">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersToPr__UserI__48CFD27E">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="UsersToProjects" Type="Self.UsersToProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UsersToProjects">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AsignarDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attachments" EntityType="Self.Attachment" />
+    <EntitySet Name="Bugs" EntityType="Self.Bug" />
+    <EntitySet Name="Comments" EntityType="Self.Comment" />
+    <EntitySet Name="Filters" EntityType="Self.Filter" />
+    <EntitySet Name="Projects" EntityType="Self.Project" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <EntitySet Name="UsersToProjects" EntityType="Self.UsersToProject" />
+    <AssociationSet Name="FK__Attachmen__BugID__4222D4EF" Association="Self.FK__Attachmen__BugID__4222D4EF">
+      <End Role="Bugs" EntitySet="Bugs" />
+      <End Role="Attachments" EntitySet="Attachments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bugs__AssigneeID__4316F928" Association="Self.FK__Bugs__AssigneeID__4316F928">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Bugs" EntitySet="Bugs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bugs__ProjectID__440B1D61" Association="Self.FK__Bugs__ProjectID__440B1D61">
+      <End Role="Projects" EntitySet="Projects" />
+      <End Role="Bugs" EntitySet="Bugs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Comments__BugID__44FF419A" Association="Self.FK__Comments__BugID__44FF419A">
+      <End Role="Bugs" EntitySet="Bugs" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Comments__UserID__45F365D3" Association="Self.FK__Comments__UserID__45F365D3">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Comments" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Filters__UserID__46E78A0C" Association="Self.FK__Filters__UserID__46E78A0C">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Filters" EntitySet="Filters" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersToPr__Proje__47DBAE45" Association="Self.FK__UsersToPr__Proje__47DBAE45">
+      <End Role="Projects" EntitySet="Projects" />
+      <End Role="UsersToProjects" EntitySet="UsersToProjects" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersToPr__UserI__48CFD27E" Association="Self.FK__UsersToPr__UserI__48CFD27E">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UsersToProjects" EntitySet="UsersToProjects" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

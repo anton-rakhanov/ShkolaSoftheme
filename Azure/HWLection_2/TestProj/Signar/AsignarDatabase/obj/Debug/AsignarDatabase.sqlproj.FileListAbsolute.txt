@@ -1,0 +1,10 @@
+E:\C#\ProjectRep\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.dacpac
+E:\C#\ProjectRep\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.dll
+E:\C#\ProjectRep\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.pdb
+E:\C#\ProjectRep\Signar\AsignarDatabase\obj\Debug\AsignarDatabase.dll
+E:\C#\ProjectRep\Signar\AsignarDatabase\obj\Debug\AsignarDatabase.pdb
+E:\TestProj\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.dacpac
+E:\TestProj\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.dll
+E:\TestProj\Signar\AsignarDatabase\bin\Debug\AsignarDatabase.pdb
+E:\TestProj\Signar\AsignarDatabase\obj\Debug\AsignarDatabase.dll
+E:\TestProj\Signar\AsignarDatabase\obj\Debug\AsignarDatabase.pdb

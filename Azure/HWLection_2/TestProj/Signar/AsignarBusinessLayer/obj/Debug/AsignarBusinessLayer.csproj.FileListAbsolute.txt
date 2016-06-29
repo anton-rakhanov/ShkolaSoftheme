@@ -1,0 +1,11 @@
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarBusinessLayer.dll
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarBusinessLayer.pdb
+E:\TestProj\Signar\AsignarBusinessLayer\obj\Debug\AsignarBusinessLayer.csprojResolveAssemblyReference.cache
+E:\TestProj\Signar\AsignarBusinessLayer\obj\Debug\AsignarBusinessLayer.dll
+E:\TestProj\Signar\AsignarBusinessLayer\obj\Debug\AsignarBusinessLayer.pdb
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarDataAccessLayer.dll
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\EntityFramework.dll
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarDataAccessLayer.pdb
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\EntityFramework.xml
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarDTOModels.dll
+E:\TestProj\Signar\AsignarBusinessLayer\bin\Debug\AsignarDTOModels.pdb

@@ -1,0 +1,10 @@
+E:\TestProj\Signar\AsignarDataAccessLayer\obj\Debug\AsignarDataAccessLayer.csprojResolveAssemblyReference.cache
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\AsignarDataAccessLayer.dll.config
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\AsignarDataAccessLayer.dll
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\AsignarDataAccessLayer.pdb
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\EntityFramework.dll
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\EntityFramework.xml
+E:\TestProj\Signar\AsignarDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\TestProj\Signar\AsignarDataAccessLayer\obj\Debug\AsignarDataAccessLayer.dll
+E:\TestProj\Signar\AsignarDataAccessLayer\obj\Debug\AsignarDataAccessLayer.pdb

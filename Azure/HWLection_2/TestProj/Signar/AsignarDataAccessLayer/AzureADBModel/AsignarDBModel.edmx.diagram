@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="476eb8790aef415ebb044ffe0d5def22" Name="Diagram1">
+        <EntityTypeShape EntityType="AsignarDBModel.Attachment" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.Bug" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.Comment" Width="1.5" PointX="8.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.Filter" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.Project" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.User" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AsignarDBModel.UsersToProject" Width="1.5" PointX="6" PointY="6.125" IsExpanded="true" />
+        <AssociationConnector Association="AsignarDBModel.FK__Attachmen__BugID__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__Bugs__AssigneeID__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__Bugs__ProjectID__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__Comments__BugID__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__Comments__UserID__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__Filters__UserID__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__UsersToPr__Proje__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="AsignarDBModel.FK__UsersToPr__UserI__48CFD27E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

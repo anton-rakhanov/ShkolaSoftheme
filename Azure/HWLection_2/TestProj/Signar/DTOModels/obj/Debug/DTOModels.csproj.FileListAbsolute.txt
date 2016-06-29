@@ -1,0 +1,5 @@
+E:\TestProj\Signar\DTOModels\bin\Debug\DTOModels.dll
+E:\TestProj\Signar\DTOModels\bin\Debug\DTOModels.pdb
+E:\TestProj\Signar\DTOModels\obj\Debug\DTOModels.csprojResolveAssemblyReference.cache
+E:\TestProj\Signar\DTOModels\obj\Debug\DTOModels.dll
+E:\TestProj\Signar\DTOModels\obj\Debug\DTOModels.pdb
