@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\bin\Debug\EmailSender.exe.config
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\bin\Debug\EmailSender.exe
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\bin\Debug\EmailSender.pdb
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\obj\Debug\EmailSender.exe
+c:\users\1\documents\visual studio 2015\Projects\AzureHW4ASP\EmailSender\obj\Debug\EmailSender.pdb

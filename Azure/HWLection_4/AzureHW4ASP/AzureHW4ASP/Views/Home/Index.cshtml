@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div id="container">
+        <form method="post" action="@Url.Action("PostBug", "Home")">
+            <h1>Add Task</h1>
+            <div class="line"><label for="BugName">Bug name: </label><input type="text" id="BugName" name="BugName" style="margin-left: 50px; margin-bottom: 15px;" /></div>
+            <div class="line"><label for="BugDesc">Bug description: </label><input type="text" id="BugDesc" name="BugDesc" style="margin-left: 11px; margin-bottom: 15px;"/></div>
+            <div class="line"><label for="AssigneeEmail">Assignee email: </label><input type="text" id="AssigneeEmail" name="AssigneeEmail" style="margin-left: 15px; margin-bottom: 15px;" /></div>
+            <div class="line submit"><input type="submit" value="Submit" /></div>
+        </form>
+    </div>
+</div>

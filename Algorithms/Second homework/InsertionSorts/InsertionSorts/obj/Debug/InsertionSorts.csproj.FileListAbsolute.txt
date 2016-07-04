@@ -4,3 +4,6 @@ e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\bin\Debug
 e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\bin\Debug\InsertionSorts.pdb
 e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.exe
 e:\documents\visual studio 2013\Projects\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.pdb
+C:\Users\1\Documents\ShkolaSoftheme\Algorithms\Second homework\InsertionSorts\InsertionSorts\bin\Debug\InsertionSorts.exe.config
+C:\Users\1\Documents\ShkolaSoftheme\Algorithms\Second homework\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.exe
+C:\Users\1\Documents\ShkolaSoftheme\Algorithms\Second homework\InsertionSorts\InsertionSorts\obj\Debug\InsertionSorts.pdb
